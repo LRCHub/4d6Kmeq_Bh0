@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Home Is Where The Hurt Is",
+  "base_artist": "LANY",
+  "createdAt": "2026-03-13T12:58:46.338471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Home Is Where the Hurt Is",
+      "artist": "Script",
+      "has_synced": true,
+      "path": "select/01_Home_Is_Where_the_Hurt_Is_Script.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Home Is Where the Hurt Is",
+      "artist": "The Script",
+      "has_synced": true,
+      "path": "select/02_Home_Is_Where_the_Hurt_Is_The_Script.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/03_Home_Is_Where_The_Hurt_Is_LANY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/04_Home_Is_Where_The_Hurt_Is_LANY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LANY - Home Is Where The Hurt Is (Official Lyric Video)",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/05_LANY_-_Home_Is_Where_The_Hurt_Is_(Official_Lyric_Video)_LANY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "Porter Wagoner",
+      "has_synced": false,
+      "path": "select/06_Home_Is_Where_The_Hurt_Is_Porter_Wagoner.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Home Is Where the Hurt Is",
+      "artist": "Porter Wagoner",
+      "has_synced": false,
+      "path": "select/07_Home_Is_Where_the_Hurt_Is_Porter_Wagoner.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/08_Home_Is_Where_The_Hurt_Is_LANY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/09_Home_Is_Where_The_Hurt_Is_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Home Is Where the Hurt Is",
+      "artist": "Porter Wagoner & Dolly Parton",
+      "has_synced": false,
+      "path": "select/10_Home_Is_Where_the_Hurt_Is_Porter_Wagoner_&_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Home Is Where the Hurt Is",
+      "artist": "Dolly Parton & Porter Wagoner",
+      "has_synced": false,
+      "path": "select/11_Home_Is_Where_the_Hurt_Is_Dolly_Parton_&_Porter_Wagoner.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "Dolly Parton & Porter Wagoner",
+      "has_synced": true,
+      "path": "select/12_Home_Is_Where_The_Hurt_Is_Dolly_Parton_&_Porter_Wagoner.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "Dolly Parton/Porter Wagoner",
+      "has_synced": false,
+      "path": "select/13_Home_Is_Where_The_Hurt_Is_Dolly_Parton_Porter_Wagoner.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Home Is Where the Hurt Is",
+      "artist": "Porter Wagoner and Dolly Parton",
+      "has_synced": true,
+      "path": "select/14_Home_Is_Where_the_Hurt_Is_Porter_Wagoner_and_Dolly_Parton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Home Is Where The Hurt Is",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/pl_01_Home_Is_Where_The_Hurt_Is_LANY.txt"
+    }
+  ]
+}
